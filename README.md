@@ -1,4 +1,4 @@
-# 🏀 Late For Tipoff
+# 🏀 Late For Tip-Off
 
 > A frantic 2D platformer built using the **Godot Engine** where you race across campus to secure your starting spot!
 
