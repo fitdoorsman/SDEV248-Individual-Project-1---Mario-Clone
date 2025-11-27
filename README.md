@@ -1,6 +1,6 @@
 # 🏀 Late For Tipoff
 
-> A frantic 2D platformer built using the **Godot Engine 4** where you race across campus to secure your starting spot!
+> A frantic 2D platformer built using the **Godot Engine** where you race across campus to secure your starting spot!
 
 ## 📝 Overview
 
@@ -50,7 +50,7 @@ This project requires the **Godot Engine 4** to run.
 
 1.  Download or clone this repository.
 2.  Extract the project ZIP file included in the repository.
-3.  Open **Godot Engine 4**.
+3.  Open **Godot Engine**.
 4.  Click **Import** and select the extracted project folder.
 5.  Run the main scene, `Main.tscn`, to begin playing!
 
