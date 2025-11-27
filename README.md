@@ -4,7 +4,7 @@
 
 ## 📝 Overview
 
-You play as **Titus "The Titan" Guard**, the starting point guard for the Ivy Tech Titans. Tip-off is in just minutes, and you are racing across campus to reach the gym before the clock runs out! Along the way, you must avoid enemies, collect crucial energy drinks, and manage your limited lives while navigating environmental hazards.
+You play as the starting point guard for the Ivy Tech Titans. Tip-off is in just minutes, and you are racing across campus to reach the gym before tip-off! Along the way, you must avoid enemies, collect crucial energy drinks, and manage your limited lives while navigating environmental hazards.
 
 ### 🏃 Mission: Court Crash
 
