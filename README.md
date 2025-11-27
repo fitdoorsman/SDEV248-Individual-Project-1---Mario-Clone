@@ -1,41 +1,41 @@
 Late For Tipoff
 
 Overview
-Late For Tipoff is a 2D platformer built in Godot
-You play as a student racing across campus to reach the gym before tipoff. Along the way, you must avoid enemies, collect energy drinks, and manage your limited lives while navigating through the level.
-To complete the game, you must collect 10 drinks and then reach the gym doors
+Late For Tipoff is a 2D platformer built in Godot 4.
+You play as a basketball student trying to reach the gym in time for tipoff.
+To win, you must collect 10 energy drinks, avoid enemies, and reach the gym doors with all requirements met.
 
-Gameplay
-Move through the level while avoiding enemies.
-Collect energy drinks scattered around the map.
-Reach the gym with at least 10 drinks to win.
-Reaching the gym early triggers a failure screen.
-Losing all lives results in a game over screen with a restart option
+GAMEPLAY
+Move through the level and avoid enemies.
+Collect energy drinks for the win requirement.
+Reach the gym door with at least 10 drinks to win.
+Reaching the gym with fewer than 10 drinks shows a failure screen.
+Losing all 3 lives triggers a game over screen.
 
-Controls
-Action	Input
-Move Left	Left Arrow 
-Move Right	Right Arrow 
-Jump	Spacebar
-Restart After Failure	Restart Button
-Lives System
+CONTROLS
+Move Left: Left Arrow
+Move Right: Right Arrow
+Jump: Spacebar
+Restart after losing: Restart Button on screen
 
-Player begins with 3 lives.
-Touching an enemy or falling off the level removes 1 life.
-When lives reach 0, a game over screen appears and the player can restart
-
-Win & Failure Conditions
-Win Condition
+WIN CONDITION
 Collect 10 or more drinks
-Enter the gym door to finish the game
+Touch the gym door
+Success message appears
 
-Failure Condition
-Reaching the gym with fewer than 10 drinks shows the message:
-“Not enough drinks! Another player started”
+FAILURE CONDITION (NOT ENOUGH DRINKS)
+Reach the gym door with fewer than 10 drinks
+Message: “Not enough drinks! Another player started.”
 
-Game Over
-Triggered when all lives are lost
-A restart button allows the player to replay the game
+GAME OVER
+Lose all 3 lives
+The Game Over screen appears
+The restart button reloads the level
+
+LIVES SYSTEM
+Player starts with 3 lives
+Touching enemies removes 1 life
+When lives reach 0, the game-over screen appears
 
 How to Run
 Download or clone this repository
@@ -43,8 +43,6 @@ Extract the project ZIP file included in the repo
 Open Godot Engine 
 Click Import and select the extracted folder
 
-Run Main.tscn to play.
 
-License
 
 This project is for educational use. Feel free to modify or build on it.
